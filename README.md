@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-<strong>Fehler:</strong> Null Pointer Exception bei den Metrics. Werde das Projekt noch einmal <strong>neu machen bis 19.11.2019</strong>.<br>Bitte um Verständnis, vielen Dank! 
+# Fehler: Null Pointer Exception bei den Metrics. Werde das Projekt noch einmal neu machen bis 19.11.2019.<br>Bitte um Verständnis. Vielen Dank! 
 
 ## Prometheus
 Prometheus ist ein Open-Source-Toolkit zur <strong>Systemüberwachung</strong> von Containern und Microservices.<br>So ist es möglich, Metrics grafisch anzeigen zu lassen.<br>
@@ -11,7 +11,7 @@ Durch das Einbinden der folgenden Dependency in die pom wird der ````localhost:8
 <dependency>
   <groupId>io.quarkus</groupId>
   <artifactId>quarkus-smallrye-metrics</artifactId>
-</dependcy>
+</dependency>
 ````
 
 ## Istio
